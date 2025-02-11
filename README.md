@@ -1,1 +1,1 @@
-# data-warehouses-and-business-analytics---basics
+# data-warehouses-and-business-analytics-basics
